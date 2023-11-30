@@ -1,29 +1,10 @@
-Body {
-    Font-family: sans-serif;
-  }
-  
-  Header {
-    Margin-top: 20px;
-  }
-  
-  H1 {
-    Font-size: 32px;
-  }
-  
-  H2 {
-    Font-size: 24px;
-  }
-  
-  Ul {
-    List-style-type: none;
-    Padding: 0;
-  }
-  
-  .list-group-item {
-    Padding: 10px;
-  }
-  
-  Footer {
-    Margin-bottom: 20px;
-  }
-  
+.profile-icon {
+  border-left: 50%;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+.personal-website-links,
+.organisational-website-links {
+  text-align: center;
+}
